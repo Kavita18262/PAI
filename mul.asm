@@ -5,9 +5,9 @@ section .data
           
 section .text
 _start:
-    mov ax,30000  
-    mov dx,40000   
-    mul dx        
+    mov al,4 
+    mov bl,5   
+    mul bl        
     mov[result],ax
     
     mov eax,1
