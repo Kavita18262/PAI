@@ -1,2 +1,2 @@
-# Assignment-1
-Hello World
+# Assignments
+(Done in PAI Lab)
